@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI" alt="GitHub repo size">
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/shantanu1109/Telecom-Customer-Churn-Analysis-Power-BI?logo=history&logoColor=white" alt="GitHub last commit">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?logo=github" alt="Status">
 </p>
 
